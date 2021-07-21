@@ -1,0 +1,22 @@
+{
+  "name": "testingpractise",
+  "version": "1.0.0",
+  "description": "Testing Practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agustingrm/testingpractise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agustingrm/testingpractise/issues"
+  },
+  "homepage": "https://github.com/Agustingrm/testingpractise#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
